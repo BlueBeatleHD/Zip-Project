@@ -1,6 +1,6 @@
 # AVL Trees vs Red Black Trees using zipcodes
 
-C++ CMD Application used to show the difference in performance between AVL and RED Black Trees by using zop codes within the United States in the year 2010.
+C++ CMD Application used to show the difference in performance between AVL and RED Black Trees by using zip codes within the United States in the year 2010.
 
 ## Usage
 
